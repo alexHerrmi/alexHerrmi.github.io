@@ -1,7 +1,7 @@
 [
   {
     "name": "Spiele",
-    "weight": 4,
+    "weight": 5,
     "data": [
       {
         "category": "Spiel",
@@ -11,12 +11,12 @@
       {
         "category": "Spiel",
         "name": "Ich hab noch nie",
-        "description": "Die Person, die die Karte gezogen hat darf ein Thema für eine Runde Ich hab noch nie aussuchen. (z.B. Ich hab noch nie Alkohol getrunken) Jeder der das schon einmal getan hat, muss ein Schluck trinken."
+        "description": "Die Person, die die Karte gezogen hat darf ein Thema für eine Runde Ich hab noch nie aussuchen. (z.B. Ich hab noch nie Alkohol getrunken) Jeder der das schon einmal getan hat, muss einem Schluck trinken."
       },
       {
         "category": "Spiel",
         "name": "Ich würde am ehesten",
-        "description": "Der Lauchi, der die Karte gezogen hat darf sich eine 'Wer würde am ehesten' Frage ausdenken (z.B. Wer würde am ehesten Donauradler auf einem Date trinken) Danach wird abgestimmt wer dies am ehesten sein wird und die Person muss drei Schlucks trinken. Die letzte Entscheidung bei einem gleichstand liegt dabei bei der Person mit dem kleinsten Bizeps."
+        "description": "Der Lauchi, der die Karte gezogen hat darf sich eine \"Wer würde am ehesten\" Frage ausdenken (z.B. Wer würde am ehesten Donauradler auf einem Date trinken) Danach wird abgestimmt wer dies am ehesten sein wird und die Person muss drei Schlucks trinken. Die letzte Entscheidung bei einem gleichstand liegt dabei bei der Person mit dem kleinsten Bizeps."
       },
       {
         "category": "Spiel",
@@ -36,12 +36,7 @@
       {
         "category": "Spiel",
         "name": "Ja, Nein, Vielleicht",
-        "description": "Jeder Spieler darf dem Lelek, der diese Karte gezogen hat eine Frage stellen. Der Lelek MUSS diese beantworten, darf aber nicht die Wörter \"Ja\", \"Nein\" und \"Vielleicht\" benutzten. Benutzt er eins dieser Wörter, muss er trinken."
-      },
-      {
-        "category": "Spiel",
-        "name": "Hast du schonmal",
-        "description": "Ihr kennt \"Ich hab noch nie\"? Dieses Spiel ist ähnlich, nur das ihr hier trinkt, wenn ihr es noch nicht gemacht habt. Der/die Kartenzieher*in denkt sich dabei eine Frage aus (z.B. Ich hab schonmal bei einem Date gefurzt). Jeder der das noch nicht getan hat, muss einen trinken!"
+        "description": "Jeder Spieler darf dem Lelek, der diese Karte gezogen hat eine Frage stellen. Der Lelek MUSS diese beantworten, darf aber nicht die Wörter \"Ja\", \"Nein\" und \"Vielleicht\" benutzen. Benutzt er eins dieser Wörter, muss er trinken."
       },
       {
         "category": "Spiel",
@@ -72,11 +67,11 @@
   },
   {
     "name": "Trinken",
-    "weight": 5,
+    "weight": 6,
     "data": [
       {
         "category": "Trink",
-        "name": "Der/Die möchtegern Influenzer*in trinkt",
+        "name": "Der/Die möchtegern Influencer*in trinkt",
         "description": "Zurnot auch die Person, die da am ehesten reinpassen würde."
       },
       {
