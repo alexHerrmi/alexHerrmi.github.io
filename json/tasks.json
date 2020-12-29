@@ -161,7 +161,7 @@
     "weight": 1,
     "data": [
       {
-        "category": "Regel (nicht die Tage)",
+        "category": "Regel (nicht Tage)",
         "name": "Diese Regel gilt für die nächste Runde",
         "description": "Der Dumbo, der diese Karte gezogen hat, darf sich eine Regel ausdenken, die für die nächste Runde gilt. (z.B. Nurnoch mit der schwachen Hand trinken)"
       },
@@ -195,7 +195,7 @@
       {
         "category": "Frage",
         "name": "Sag doch mal...",
-        "description": "Die Bumbsbiene, die diese Karte gezogen hat darf einem Mitspieler*in seiner/ihrer Wahl eine Frage stellen. Du hast jetzt die Möglichkeit alles herauszufinden, was du schon immer wissen wolltest. Nutze diese Chance weise!"
+        "description": "Die Bumbsbiene, die diese Karte gezogen hat darf einem Mitspieler*in seiner/ihrer Wahl eine Frage stellen. Du hast jetzt die Möglichkeit alles herauszufinden, was du schon immer wissen wolltest. Nutze diese Chance weise! Die Person die die Frage beantworten muss, muss diese aber nicht beantworten. Alternativ kann sie sich für 5 Schlucks freikaufen."
       }
     ]
   }
