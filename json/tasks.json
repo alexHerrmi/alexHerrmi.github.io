@@ -16,7 +16,7 @@
       {
         "category": "Spiel",
         "name": "Ich würde am ehesten",
-        "description": "Der Lauchi, der die Karte gezogen hat darf sich eine \"Wer würde am ehesten\" Frage ausdenken (z.B. Wer würde am ehesten Donauradler auf einem Date trinken) Danach wird abgestimmt wer dies am ehesten sein wird und die Person muss drei Schlucks trinken. Die letzte Entscheidung bei einem gleichstand liegt dabei bei der Person mit dem kleinsten Bizeps."
+        "description": "Der Lauchi, der die Karte gezogen hat, darf sich eine \"Wer würde am ehesten\" Frage ausdenken (z.B. Wer würde am ehesten Donauradler auf einem Date trinken) Danach wird abgestimmt wer dies am ehesten sein wird und die Person muss drei Schlucks trinken. Die letzte Entscheidung bei einem gleichstand liegt dabei bei der Person mit dem kleinsten Bizeps."
       },
       {
         "category": "Spiel",
@@ -41,7 +41,7 @@
       {
         "category": "Spiel",
         "name": "Assoziation",
-        "description": "Bei deim Spiel Assoziation denkt sich der Keck, der die Karte gezogen ein Wort aus, welches sich aus zwei Wörtern zusammensetzt (z.B. Alkoholvergiftung). Der/Die Spieler*in rechts neben dem Keck, der die Karte gezogen hat nimmt nun das zweite Wort (Vergiftung) und fügt eine neues Wort hintendran (Vergiftungssympthome). Und so geht es im Kreis weiter, bis einer Person nichts mehr einfällt oder einer einen Fehler macht. Der Person muss dann trinken."
+        "description": "Bei dem Spiel Assoziation denkt sich der Keck, der die Karte gezogen ein Wort aus, welches sich aus zwei Wörtern zusammensetzt (z.B. Alkoholvergiftung). Der/Die Spieler*in rechts neben dem Keck, der die Karte gezogen hat nimmt nun das zweite Wort (Vergiftung) und fügt ein neues Wort hintendran (Vergiftungssymptome). Und so geht es im Kreis weiter, bis einer Person nichts mehr einfällt oder einer einen Fehler macht. Der Person muss dann trinken."
       },
       {
         "category": "Spiel",
@@ -51,17 +51,17 @@
       {
         "category": "Spiel",
         "name": "Imitation",
-        "description": "Der Dödel, der die Karte gezogen hat versucht nun für 1 Minute eine Person zu imitieren, die möglichst alle kennen. Hierbei ist darauf zu achten, dass diese Person auch sehr klischeehaft dargestellt wird. (z.B \"Ähhhh aber geht dein Licht unter deinem Bett automatisch an wenn du nachts mal wieder einen Abseilen musst ?! Hä ?!\") Alle die, die diese Person nicht erkannt haben trinken. Jenachdem wie viele es nicht erkannt haben so viele Schlucks trinkt der Dödel."
+        "description": "Der Dödel, der die Karte gezogen hat, versucht nun für 1 Minute eine Person zu imitieren, die möglichst alle kennen. Hierbei ist darauf zu achten, dass diese Person auch sehr klischeehaft dargestellt wird. (z.B. \"Ähhhh aber geht dein Licht unter deinem Bett automatisch an wenn du nachts mal wieder einen Abseilen musst?! Hä ?!\") Alle die, die diese Person nicht erkannt haben trinken. Je nachdem wie viele es nicht erkannt haben so viele Schlucks trinkt der Dödel."
       },
       {
         "category": "Spiel",
         "name": "Kurz-Pantomime",
-        "description": "Der/Die Spieler*in, der/die diese Karte gezogen hat denkt sich einen Begriff aus, schreibt den Begriff auf und muss nur mit Gestik und Mimik (OHNE GERÄUSCHE IHR KEKS) zeigen, um was für einen Begriff es sich handelt. Der Spieler hat 1 Minute Zeit (variierbar). Alle die es nicht erkannt haben: trinkt. Wenn es z.B 5 nicht erkannt haben, so muss der ziehende Spieler 5 Schlucks runterschlabbern."
+        "description": "Der/Die Spieler*in, der/die diese Karte gezogen hat denkt sich einen Begriff aus, schreibt den Begriff auf und muss nur mit Gestik und Mimik (OHNE GERÄUSCHE IHR KEKS) zeigen, um was für einen Begriff es sich handelt. Der Spieler hat 1 Minute Zeit (variierbar). Alle die es nicht erkannt haben: trinkt. Wenn es z.B. 5 nicht erkannt haben, so muss der ziehende Spieler 5 Schlucks runterschlabbern."
       },
       {
         "category": "Spiel",
         "name": "Entweder, oder",
-        "description": "Der Frosch, der diese Karte gezogen hat stellst eine \"Entweder oder\" Frage (z.B Entweder 1 Jahr kein Sex oder 1 Jahr keine Party mehr). Nun gibt jeder eine Antwort ab, was man leiber nehmen würde. Die Minderheit trinkt. Bei Gleichstand entscheidet die Person, mit der größten Nase, wer trinken muss."
+        "description": "Der Frosch, der diese Karte gezogen hat stellt eine \"Entweder oder\" Frage (z.B Entweder 1 Jahr kein Sex oder 1 Jahr keine Party mehr). Nun gibt jeder eine Antwort ab, was man lieber nehmen würde. Die Minderheit trinkt. Bei Gleichstand entscheidet die Person, mit der größten Nase, wer trinken muss."
       }
     ]
   },
@@ -72,12 +72,12 @@
       {
         "category": "Trink",
         "name": "Der/Die möchtegern Influencer*in trinkt",
-        "description": "Zurnot auch die Person, die da am ehesten reinpassen würde."
+        "description": "Zur Not auch die Person, die da am ehesten reinpassen würde."
       },
       {
         "category": "Trink",
         "name": "Der/Die klügste Spieler*in trinkt",
-        "description": "Kommt eine schwangere Frau zum Bäcker. Sagst sie zum Bäcker: \"Ich bekomme 3 Brezeln\". Sagt der Bäcker: \"Sachen gibts..\""
+        "description": "Kommt eine schwangere Frau zum Bäcker. Sagt sie zum Bäcker: \"Ich bekomme 3 Brezeln\". Sagt der Bäcker: \"Sachen gibts..\""
       },
       {
         "category": "Trink",
@@ -111,18 +111,18 @@
       },
       {
         "category": "Trink",
-        "name": "Alle die sich als Apche Kampfhubschrauber oder \"son Scheiß\" identifizieren",
+        "name": "Alle die sich als Apache Kampfhubschrauber oder \"son Scheiß\" identifizieren",
         "description": "Mach den Hub Hub Hub mach den Schrauber Schrauber Schrauber"
       },
       {
         "category": "Trink",
         "name": "Die am wenigsten betrunkene Person trinkt",
-        "description": "UHHHHHHHHHHHHHHHHHHHHHHHH Im blinded by the lights"
+        "description": "UHHHHHHHHHHHHHHHHHHHHHHHH I'm blinded by the lights"
       },
       {
         "category": "Trink",
         "name": "Der Keko, welcher am höchsten gewachsen ist darf erstmal trinken",
-        "description": "Upsi Dupsi. Gibt das Leben dir 'ne Zitrone, dann mach Limosine"
+        "description": "Upsi Dupsi. Gibt das Leben dir 'ne Zitrone, dann mach Limousine"
       },
       {
         "category": "Trink",
@@ -158,12 +158,12 @@
       {
         "category": "Regel (nicht Tage)",
         "name": "Diese Regel gilt für die nächste Runde",
-        "description": "Der Dumbo, der diese Karte gezogen hat, darf sich eine Regel ausdenken, die für die nächste Runde gilt. (z.B. Nurnoch mit der schwachen Hand trinken)"
+        "description": "Der Dumbo, der diese Karte gezogen hat, darf sich eine Regel ausdenken, die für die nächste Runde gilt. (z.B. Nur noch mit der schwachen Hand trinken)"
       },
       {
         "category": "Regel",
         "name": "Diese Regel gilt für die nächsten zwei Runde",
-        "description": "Der Dullie, der diese Karte gezogen hat, darf sich eine Regel ausdenken, die für die nächsten zwei Runde gilt. (z.B. Man darf nurnoch in der dritten Person reden)"
+        "description": "Der Dullie, der diese Karte gezogen hat, darf sich eine Regel ausdenken, die für die nächsten zwei Runde gilt. (z.B. Man darf nur noch in der dritten Person reden)"
       },
       {
         "category": "Regel",
@@ -179,7 +179,7 @@
       {
         "category": "Aufgabe",
         "name": "Ein/e Spieler*in deiner Wahl muss...",
-        "description": "Der Johannes, der diese Karte gezogen hat darf einem Spieler*in seiner/ihrer Wahl eine Aufgabe stellen, der/die diese erledigen muss. Will er/sie das nicht machen, kann er/sie sich mit 5 guten Schlucks frei kaufen. (Wird aber nicht empfohlen)"
+        "description": "Der Johannes, der diese Karte gezogen hat darf einem Spieler*in seiner/ihrer Wahl eine Aufgabe stellen, der/die diese erledigen muss. Will er/sie das nicht machen, kann er/sie sich mit 5 guten Schlucks freikaufen. (Wird aber nicht empfohlen)"
       }
     ]
   },
@@ -190,7 +190,7 @@
       {
         "category": "Frage",
         "name": "Sag doch mal...",
-        "description": "Die Bumbsbiene, die diese Karte gezogen hat darf einem Mitspieler*in seiner/ihrer Wahl eine Frage stellen. Du hast jetzt die Möglichkeit alles herauszufinden, was du schon immer wissen wolltest. Nutze diese Chance weise! Die Person die die Frage beantworten muss, muss diese aber nicht beantworten. Alternativ kann sie sich für 5 Schlucks freikaufen."
+        "description": "Die Bumbsbiene, die diese Karte gezogen hat darf einem Mitspieler*in seiner/ihrer Wahl eine Frage stellen. Du hast jetzt die Möglichkeit alles herauszufinden, was du schon immer wissen wolltest. Nutze diese Chance weise! Die Person, die die Frage beantworten muss, muss diese aber nicht beantworten. Alternativ kann sie sich für 5 Schlucks freikaufen."
       }
     ]
   }
