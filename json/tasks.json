@@ -16,7 +16,7 @@
       {
         "category": "Spiel",
         "name": "Ich würde am ehesten",
-        "description": ["Ich würde am ehesten von Robby Bubble kotzen", "Ich würde am ehesten auf einem Festival blank ziehen", "Ich würde am ehesten sterben keine Ahnung"],
+        "description": "['Ich würde am ehesten von Robby Bubble kotzen', 'Ich würde am ehesten auf einem Festival blank ziehen', 'Ich würde am ehesten sterben keine Ahnung']",
       },
       {
         "category": "Spiel",
