@@ -26,7 +26,7 @@
       {
         "category": "Spiel",
         "name": "Themenrunde",
-        "description": "Bei der Themenrunde sucht sich der Saufkopf, der die Karte gezogen hat ein Thema aus (z.B. Biermarken) Danach wird reihum EIN Wort zu dem Thema gesagt (z.B. Rothaus, Hirsch Helles, Oettinger). Wem kein Wort mehr einfällt oder ein Wort wiederholt muss trinken."
+        "description": ["Biermarken", "Automarken", "Tiere", "Sexspielzeuge"]
       },
       {
         "category": "Spiel",
