@@ -43,7 +43,8 @@
         "name": "Bodenseetrinken",
         "description": "Bei diesem Spiel geht es darum, eure Flaschen / Gläser leer zu bekommen. Der Bimbo der das Spiel gezogen hat fängt mit 1 Schlucks an und gibt sein Getränk dem Uhrzeigersinn weiter. Der/Die nächste Spieler*in trink dann 2 Schlucks und so weiter. Das Spiel endet, wenn das Behältnis leer ist oder das Frühstück eines Mitspielers den Magen verlassen hat."
       },
-	          "category": "Entweder/Oder",
+	{
+	"category": "Entweder/Oder",
         "name": "Kaffee oder Schoko",
         "description": "Jeder spielt mit, die kleiner Gruppe muss trinken."
       },
