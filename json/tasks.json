@@ -60,11 +60,6 @@
             },
             {
                 "category": "Spiel",
-                "name": "Flachwitzchallenge",
-                "description": "Jede/r Spieler*in sagt einen Flachwitz auf. Der/Die Spieler*in der die Karte gezogen hat darf entscheiden welcher der beste oder schlechteste war. Trinken müssen alle außer die Person, die vom Kartenzieher*in genannt wurde."
-            },
-            {
-                "category": "Spiel",
                 "name": "Ja, Nein, Vielleicht",
                 "description": "Jeder Spieler darf dem Lelek, der diese Karte gezogen hat eine Frage stellen. Der Lelek MUSS diese beantworten, darf aber nicht die Wörter \"Ja\", \"Nein\" und \"Vielleicht\" benutzen. Benutzt er eins dieser Wörter, muss er trinken."
             },
