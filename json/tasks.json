@@ -29,7 +29,10 @@
                     "Städte mit A",
                     "Dinge, die man beim Fußball und beim Sex sagen kann",
                     "Musiker",
-                    "Ballermann Künstler"
+                    "Ballermann Künstler",
+                    "Pornoseiten",
+                    "Pornostar",
+                    "Dinge die man beim Familienessen und beim Sex sagen kann"
                 ]
             },
             {
@@ -48,12 +51,7 @@
             {
                 "category": "Spiel",
                 "name": "Warheit oder Pflicht",
-                "description": [
-                    "Biermarken",
-                    "Automarken",
-                    "Tiere",
-                    "Sexspielzeuge"
-                ]
+                "description": "Such dir eine Person aus, die entweder eine Wahrheit "
             },
             {
                 "category": "Spiel",
@@ -69,11 +67,6 @@
                 "category": "Spiel",
                 "name": "Ja, Nein, Vielleicht",
                 "description": "Jeder Spieler darf dem Lelek, der diese Karte gezogen hat eine Frage stellen. Der Lelek MUSS diese beantworten, darf aber nicht die Wörter \"Ja\", \"Nein\" und \"Vielleicht\" benutzen. Benutzt er eins dieser Wörter, muss er trinken."
-            },
-            {
-                "category": "Spiel",
-                "name": "Bodenseetrinken",
-                "description": "Bei diesem Spiel geht es darum, eure Flaschen / Gläser leer zu bekommen. Der Bimbo der das Spiel gezogen hat fängt mit 1 Schlucks an und gibt sein Getränk dem Uhrzeigersinn weiter. Der/Die nächste Spieler*in trink dann 2 Schlucks und so weiter. Das Spiel endet, wenn das Behältnis leer ist oder das Frühstück eines Mitspielers den Magen verlassen hat."
             },
             {
                 "category": "Entweder/Oder",
