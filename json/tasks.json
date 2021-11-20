@@ -1,265 +1,278 @@
 [
-    {
-        "name": "Spiele",
-        "weight": 5,
-        "data": [
-            {
-                "category": "Spiel",
-                "name": "Wer würde am ehesten",
-                "description": [
-                    "Wer würde am ehesten von Robby Bubble kotzen?",
-                    "Wer würde am ehesten auf einem Festival blank ziehen?",
-                    "Wer würde am ehesten in der Wildnis überleben?",
-                    "Wer würde am ehesten nackt durch die Innenstadt laufen?",
-                    "Wer würde am ehesten in den Knast kommen?",
-                    "Wer würde am ehesten die schärfste Chili der Welt essen?",
-                    "Wer würde am ehesten ein Jahr ohne Sex auskommen?",
-                    "Wer würde am ehesten in einen Swingerclub gehen?",
-                    "Wer würde am ehesten eine Woche schweigen können?",
-                    "Wer würde am ehesten bei Kik klauen?",
-                    "Wer würde am ehesten sich die Haare bunt färben",
-                    "Wer würde am ehesten Wasser anbrennen lassen",
-                    "Wer würde am ehesten auf Malle eine Gesangskarriere starten",
-                    "Wer würde am ehesten Vater/Mutter werden",
-                    "Wer würde am ehesten einen Monat mit den selben Klamotten umherlaufen",
-                    "Wer würde am ehesten nackt in eine Polizeikontroller kommen",
-                    "Wer würde am ehesten vom Zoll hopps genommen werden",
-                    "Wer würde am ehesten für Geld Sex haben",
-                    "Wer würde am ehesten Nudes versenden",
-                    "Wer würde am ehesten mit dem Vorgesetzten schlafen",
-                    "Wer würde am ehesten einen Porno drehen"
-                ]
-            },
-            {
-                "category": "Spiel",
-                "name": "Themenrunde",
-                "description": [
-                    "Biermarken",
-                    "Automarken",
-                    "Tiere",
-                    "Sexspielzeuge",
-                    "Städte mit A",
-                    "Dinge, die man beim Fußball und beim Sex sagen kann",
-                    "Musiker",
-                    "Ballermann Künstler",
-                    "Pornoseiten",
-                    "Pornostars",
-                    "Dinge die man beim Familienessen und beim Sex sagen kann",
-                    "Tiere mit langen Schwänzen",
-                    "Alkoholische Getränke",
-                    "Länder",
-                    "Städte in Europa",
-                    "Scheidungsgründe",
-                    "Dinge die stinken"
-                ]
-            },
-            {
-                "category": "Spiel",
-                "name": "Ich hab noch nie",
-                "description": [
-                    "Ich hab noch nie Analsex gehabt",
-                    "Ich hab noch nie mehr als 2x am Tag masturbiert",
-                    "Ich hab noch nie Fahrerflucht begangen",
-                    "Ich hab noch nie auf der Toilette telefoniert",
-                    "Ich hab noch nie gekifft",
-                    "Ich hab noch nie mehr als 200€ an einem Tag beim Feiern ausgegeben",
-                    "Ich hab noch nie mit meinen Eltern über Sex geredet",
-                    "Ich hab noch nie einen Porno geschaut",
-                    "Ich hab noch nie draußen Sex gehabt",
-                    "Ich hab noch nie eine Prüfung nicht bestanden",
-                    "Ich hab noch nie eine Homosexuelle Erfarhung gehabt",
-                    "Ich hab noch nie Nacktbilder versendet",
-                    "Ich hab noch nie auf einer Party geschlafen",
-                    "Ich hab noch nie eine Party verschlafen",
-                    "Ich hab noch nie jemanden beim Sex erwischt",
-                    "Ich wurde noch nie beim Sex erwischt",
-                    "Ich hab noch nie von zu viel Essen gekotzt",
-                    "Ich hab noch nie einen Autounfall gebaut",
-                    "Ich wurde noch nie von der Polizei angehalten",
-                    "Ich wurde noch nie geblitzt",
-                    "Ich hab noch nie einen Strafzettel bekommen"
-                ]
-            },
-            {
-                "category": "Spiel",
-                "name": "Warheit oder Pflicht",
-                "description": "Such dir eine Person aus, die entweder eine Wahrheit oder "
-            },
-            {
-                "category": "Spiel",
-                "name": "Ich gehe in eine Bar und trinke einen...",
-                "description": "Das Spiel ist gleich wie \"Ich packe meinen Koffer und nehme mit\", nur packen wir keinen Koffer, sondern gehen in eine Bar und trinken. Der Verlierer muss saufen (Kein Wasser! (Außer er ist Fahrer!!))"
-            },
-            {
-                "category": "Spiel",
-                "name": "Assoziation",
-                "description": "Bei dem Spiel Assoziation denkt sich der Keck, der die Karte gezogen ein Wort aus, welches sich aus zwei Wörtern zusammensetzt (z.B. Alkoholvergiftung). Der/Die Spieler*in rechts neben dem Keck, der die Karte gezogen hat nimmt nun das zweite Wort (Vergiftung) und fügt ein neues Wort hintendran (Vergiftungssymptome). Und so geht es im Kreis weiter, bis einer Person nichts mehr einfällt oder einer einen Fehler macht. Der Person muss dann trinken."
-            },
-            {
-                "category": "Spiel",
-                "name": "Ja, Nein, Vielleicht",
-                "description": "Jeder Spieler darf dem Lelek, der diese Karte gezogen hat eine Frage stellen. Der Lelek MUSS diese beantworten, darf aber nicht die Wörter \"Ja\", \"Nein\" und \"Vielleicht\" benutzen. Benutzt er eins dieser Wörter, muss er trinken."
-            },
-            {
-                "category": "Entweder/Oder",
-                "name": "Kaffee oder Schoko",
-                "description": "Jeder spielt, der zur kleineren Gruppe gehört muss trinken."
-            },
-            {
-                "category": "Spiel",
-                "name": "Imitation",
-                "description": "Der Dödel, der die Karte gezogen hat, versucht nun für 1 Minute eine Person zu imitieren, die möglichst alle kennen. Hierbei ist darauf zu achten, dass diese Person auch sehr klischeehaft dargestellt wird. (z.B. \"Ähhhh aber geht dein Licht unter deinem Bett automatisch an wenn du nachts mal wieder einen Abseilen musst?! Hä ?!\") Alle die, die diese Person nicht erkannt haben trinken."
-            },
-            {
-                "category": "Spiel",
-                "name": "Kurz-Pantomime",
-                "description": "Der/Die Spieler*in, der/die diese Karte gezogen hat denkt sich einen Begriff aus, schreibt den Begriff auf und muss nur mit Gestik und Mimik (OHNE GERÄUSCHE IHR KEKS) zeigen, um was für einen Begriff es sich handelt. Der Spieler hat 1 Minute Zeit (variierbar). Alle die es nicht erkannt haben: trinkt. Wenn es z.B. 5 nicht erkannt haben, so muss der ziehende Spieler 5 Schlucks runterschlabbern."
-            },
-            {
-                "category": "Spiel",
-                "name": "Entweder, oder",
-                "description": "Der Frosch, der diese Karte gezogen hat stellt eine \"Entweder oder\" Frage (z.B Entweder 1 Jahr kein Sex oder 1 Jahr keine Party mehr). Nun gibt jeder eine Antwort ab, was man lieber nehmen würde. Die Minderheit trinkt. Bei Gleichstand entscheidet die Person, mit der größten Nase, wer trinken muss."
-           }
+  {
+    "name": "Spiele",
+    "weight": 5,
+    "data": [
+      {
+        "category": "Spiel",
+        "name": "Wer würde am ehesten",
+        "description": [
+          "Wer würde am ehesten von Robby Bubble kotzen?",
+          "Wer würde am ehesten auf einem Festival blank ziehen?",
+          "Wer würde am ehesten in der Wildnis überleben?",
+          "Wer würde am ehesten nackt durch die Innenstadt laufen?",
+          "Wer würde am ehesten in den Knast kommen?",
+          "Wer würde am ehesten die schärfste Chili der Welt essen?",
+          "Wer würde am ehesten ein Jahr ohne Sex auskommen?",
+          "Wer würde am ehesten in einen Swingerclub gehen?",
+          "Wer würde am ehesten eine Woche schweigen können?",
+          "Wer würde am ehesten bei Kik klauen?",
+          "Wer würde am ehesten sich die Haare bunt färben",
+          "Wer würde am ehesten Wasser anbrennen lassen",
+          "Wer würde am ehesten auf Malle eine Gesangskarriere starten",
+          "Wer würde am ehesten Vater/Mutter werden",
+          "Wer würde am ehesten einen Monat mit den selben Klamotten umherlaufen",
+          "Wer würde am ehesten nackt in eine Polizeikontroller kommen",
+          "Wer würde am ehesten vom Zoll hopps genommen werden",
+          "Wer würde am ehesten für Geld Sex haben",
+          "Wer würde am ehesten Nudes versenden",
+          "Wer würde am ehesten mit dem Vorgesetzten schlafen",
+          "Wer würde am ehesten einen Porno drehen"
         ]
-    },
-    {
-        "name": "Trinken",
-        "weight": 6,
-        "data": [
-            {
-                "category": "Trink",
-                "name": "Der/Die möchtegern Influencer*in trinkt",
-                "description": "Zur Not auch die Person, die da am ehesten reinpassen würde."
-            },
-            {
-                "category": "Trink",
-                "name": "Der/Die klügste Spieler*in trinkt",
-                "description": "Kommt eine schwangere Frau zum Bäcker. Sagt sie zum Bäcker: \"Ich bekomme 3 Brezeln\". Sagt der Bäcker: \"Sachen gibts..\""
-            },
-            {
-                "category": "Trink",
-                "name": "Die dümmste Flasche trinkt",
-                "description": "Im Zweifel auch der, mit den dümmsten Aussagen (oder der Lars in der Gruppe :*)"
-            },
-            {
-                "category": "Trink",
-                "name": "Der Klappstuhl, mit der größten Nase trinkt.",
-                "description": "Sollte selbstverständlich sein."
-            },
-            {
-                "category": "Trink",
-                "name": "An die bärtigen unter euch: trinkt!",
-                "description": "Auch Backenbart zählt dazu"
-            },
-            {
-                "category": "Trink",
-                "name": "Der Älteste Lurch trinkt",
-                "description": "Was ist das Gegenteil von Netflix and Chill? - Tagesschau und Samenstau"
-            },
-            {
-                "category": "Trink",
-                "name": "Alle männlichen Dullies trinken",
-                "description": "Und diese, die sich als solche identifizieren"
-            },
-            {
-                "category": "Trink",
-                "name": "Alle weiblichen Geschöpfe trinken",
-                "description": "Und diese, die sich als solche identifizieren"
-            },
-            {
-                "category": "Trink",
-                "name": "Alle die sich als Apache Kampfhubschrauber oder \"son Scheiß\" identifizieren nehmen einen Sipp",
-                "description": "Mach den Hub Hub Hub mach den Schrauber Schrauber Schrauber"
-            },
-            {
-                "category": "Trink",
-                "name": "Die am wenigsten betrunkene Person trinkt",
-                "description": "UHHHHHHHHHHHHHHHHHHHHHHHH I'm blinded by the lights"
-            },
-            {
-                "category": "Trink",
-                "name": "Der Keko, welcher am höchsten gewachsen ist darf erstmal trinken",
-                "description": "Upsi Dupsi. Gibt das Leben dir 'ne Zitrone, dann mach Limousine"
-            },
-            {
-                "category": "Trink",
-                "name": "Alle Spieler*innen, die heute noch nicht geduscht haben, trinken! Aber sofort.",
-                "description": "Deutsch ist halt so eine Alman Sprache"
-            },
-            {
-                "category": "Trink",
-                "name": "Alle Brillenträger trinken",
-                "description": "Wie nennt man eine japanische Unterhosenfabrik? Sacki verpacki."
-            },
-            {
-                "category": "Trink",
-                "name": "Das kleinste Gebläse trinkt",
-                "description": "Ich spüle Teller, Schalen, Pfannen aber abwaschen bleibt gleich - Mozart"
-            },
-            {
-                "category": "Trink",
-                "name": "Der jünste trinkt",
-                "description": "Das passt ja vorn und hinten nicht. Lisa, 23 schickt ihre Eis.de Bestellung zurück."
-            },
-            {
-                "category": "Trink",
-                "name": "Der Lelek mit den kürzesten Haaren trinkt",
-                "description": "Da kannst du schütteln, da kannst du klopfen, in die Hose geht der letzte Tropfen."
-            }
+      },
+      {
+        "category": "Spiel",
+        "name": "Themenrunde",
+        "description": [
+          "Biermarken",
+          "Automarken",
+          "Tiere",
+          "Sexspielzeuge",
+          "Städte mit A",
+          "Dinge, die man beim Fußball und beim Sex sagen kann",
+          "Musiker",
+          "Ballermann Künstler",
+          "Pornoseiten",
+          "Pornostars",
+          "Dinge die man beim Familienessen und beim Sex sagen kann",
+          "Tiere mit langen Schwänzen",
+          "Alkoholische Getränke",
+          "Länder",
+          "Städte in Europa",
+          "Scheidungsgründe",
+          "Dinge die stinken"
         ]
-    },
-    {
-        "name": "Regel",
-        "weight": 2,
-        "data": [
-            {
-                "category": "Regel (nicht Tage)",
-                "name": "Diese Regel gilt für die nächste Runde",
-                "description": [
-                    "Der Dumbo, der diese Karte gezogen hat, darf sich eine Regel ausdenken, die für die nächste Runde gilt. (z.B. Nur noch mit der schwachen Hand trinken)"
-                ]
-            },
-            {
-                "category": "Regel",
-                "name": "Diese Regel gilt für die nächsten zwei Runde",
-                "description": [
-                    "Der Dullie, der diese Karte gezogen hat, darf sich eine Regel ausdenken, die für die nächsten zwei Runde gilt. (z.B. Man darf nur noch in der dritten Person reden)"
-                ]
-            },
-            {
-                "category": "Regel",
-                "name": "Diese Regel gilt für die nächsten drei Runde",
-                "description": [
-                    "Der Dullie, der diese Karte gezogen hat, darf sich eine Regel ausdenken, die für die nächsten zwei Runde gilt. (z.B. Man darf nur noch in der dritten Person reden)"
-                ]
-            }
+      },
+      {
+        "category": "Spiel",
+        "name": "Ich hab noch nie",
+        "description": [
+          "Ich hab noch nie Analsex gehabt",
+          "Ich hab noch nie mehr als 2x am Tag masturbiert",
+          "Ich hab noch nie Fahrerflucht begangen",
+          "Ich hab noch nie auf der Toilette telefoniert",
+          "Ich hab noch nie gekifft",
+          "Ich hab noch nie mehr als 200€ an einem Tag beim Feiern ausgegeben",
+          "Ich hab noch nie mit meinen Eltern über Sex geredet",
+          "Ich hab noch nie einen Porno geschaut",
+          "Ich hab noch nie draußen Sex gehabt",
+          "Ich hab noch nie eine Prüfung nicht bestanden",
+          "Ich hab noch nie eine Homosexuelle Erfarhung gehabt",
+          "Ich hab noch nie Nacktbilder versendet",
+          "Ich hab noch nie auf einer Party geschlafen",
+          "Ich hab noch nie eine Party verschlafen",
+          "Ich hab noch nie jemanden beim Sex erwischt",
+          "Ich wurde noch nie beim Sex erwischt",
+          "Ich hab noch nie von zu viel Essen gekotzt",
+          "Ich hab noch nie einen Autounfall gebaut",
+          "Ich wurde noch nie von der Polizei angehalten",
+          "Ich wurde noch nie geblitzt",
+          "Ich hab noch nie einen Strafzettel bekommen"
         ]
-    },
-    {
-        "name": "Frage",
-        "weight": 1,
-        "data": [
-            {
-                "category": "Frage",
-                "name": "Sag doch mal...",
-                "description": "Die Bumbsbiene, die diese Karte gezogen hat darf einem Mitspieler*in seiner/ihrer Wahl eine Frage stellen. Du hast jetzt die Möglichkeit alles herauszufinden, was du schon immer wissen wolltest. Nutze diese Chance weise! Die Person, die die Frage beantworten muss, muss diese aber nicht beantworten. Alternativ kann sie sich für 5 Schlucks freikaufen."
-            }
+      },
+      {
+        "category": "Spiel",
+        "name": "Warheit oder Pflicht",
+        "description": "Such dir eine Person aus, die entweder eine Wahrheit oder "
+      },
+      {
+        "category": "Spiel",
+        "name": "Ich gehe in eine Bar und trinke einen...",
+        "description": "Das Spiel ist gleich wie \"Ich packe meinen Koffer und nehme mit\", nur packen wir keinen Koffer, sondern gehen in eine Bar und trinken. Der Verlierer muss saufen (Kein Wasser! (Außer er ist Fahrer!!))"
+      },
+      {
+        "category": "Spiel",
+        "name": "Assoziation",
+        "description": "Bei dem Spiel Assoziation denkt sich der Keck, der die Karte gezogen ein Wort aus, welches sich aus zwei Wörtern zusammensetzt (z.B. Alkoholvergiftung). Der/Die Spieler*in rechts neben dem Keck, der die Karte gezogen hat nimmt nun das zweite Wort (Vergiftung) und fügt ein neues Wort hintendran (Vergiftungssymptome). Und so geht es im Kreis weiter, bis einer Person nichts mehr einfällt oder einer einen Fehler macht. Der Person muss dann trinken."
+      },
+      {
+        "category": "Spiel",
+        "name": "Ja, Nein, Vielleicht",
+        "description": "Jeder Spieler darf dem Lelek, der diese Karte gezogen hat eine Frage stellen. Der Lelek MUSS diese beantworten, darf aber nicht die Wörter \"Ja\", \"Nein\" und \"Vielleicht\" benutzen. Benutzt er eins dieser Wörter, muss er trinken."
+      },
+      {
+        "category": "Spiel",
+        "name": "Entweder/Oder",
+        "description": [
+          "Kaffe oder Schoki",
+          "Raclette oder Fondue",
+          "Ein Jahr obdachlos oder ein Jahr kein Sex",
+          "Bier oder Wein",
+          "Riesige Hände oder riesige Füße",
+          "Teleportation oder Gedanken lesen",
+          "Kino oder Netflix",
+          "Blind oder Taub",
+          "Beim Partner: Unterleib eines Fisches oder Kopf eines Fisches"
         ]
-    },
-    {
-        "name": "Aufgabe",
-        "weight": 1,
-        "data": [
-            {
-                "category": "Aufgabe",
-                "name": "Mache alles, was die Person Links von dir verlangt",
-                "description": "Wenn du nicht kannst oder willst, dann trinke."
-            },
-            {
-                "category": "Aufgabe",
-                "name": "Mach 10 Liegestütze",
-                "description": "Wenn du nicht kannst oder willst, dann trinke."
-            }
+      },
+      {
+        "category": "Spiel",
+        "name": "Imitation",
+        "description": "Der Dödel, der die Karte gezogen hat, versucht nun für 1 Minute eine Person zu imitieren, die möglichst alle kennen. Hierbei ist darauf zu achten, dass diese Person auch sehr klischeehaft dargestellt wird. (z.B. \"Ähhhh aber geht dein Licht unter deinem Bett automatisch an wenn du nachts mal wieder einen Abseilen musst?! Hä ?!\") Alle die, die diese Person nicht erkannt haben trinken."
+      },
+      {
+        "category": "Spiel",
+        "name": "Kurz-Pantomime",
+        "description": [
+          "Motosäge",
+          "Gitarrist",
+          "Bierbauch",
+          "Du musst mal aufs Klo",
+          "Hubschrauber",
+          "Lars auf einer Party"
+        ],
+        "hint": "Beschreibe das obere Wort / die Phrase ausschließlich mit Gestik und Mimik (OHNE GERÄUSCHE IHR KEKS). Nach 1 Minute (kann variieren) sagt dan jeden Spieler reihum, was er denkt, was hier beschrieben wurde. Wenn einer den Begriff nicht richtig erkannt hat, so trinkst du."
+      }
+    ]
+  },
+  {
+    "name": "Trinken",
+    "weight": 6,
+    "data": [
+      {
+        "category": "Trink",
+        "name": "Der/Die möchtegern Influencer*in trinkt",
+        "description": "Zur Not auch die Person, die da am ehesten reinpassen würde."
+      },
+      {
+        "category": "Trink",
+        "name": "Der/Die klügste Spieler*in trinkt",
+        "description": "Kommt eine schwangere Frau zum Bäcker. Sagt sie zum Bäcker: \"Ich bekomme 3 Brezeln\". Sagt der Bäcker: \"Sachen gibts..\""
+      },
+      {
+        "category": "Trink",
+        "name": "Die dümmste Flasche trinkt",
+        "description": "Im Zweifel auch der, mit den dümmsten Aussagen (oder der Lars in der Gruppe :*)"
+      },
+      {
+        "category": "Trink",
+        "name": "Der Klappstuhl, mit der größten Nase trinkt.",
+        "description": "Sollte selbstverständlich sein."
+      },
+      {
+        "category": "Trink",
+        "name": "An die bärtigen unter euch: trinkt!",
+        "description": "Auch Backenbart zählt dazu"
+      },
+      {
+        "category": "Trink",
+        "name": "Der Älteste Lurch trinkt",
+        "description": "Was ist das Gegenteil von Netflix and Chill? - Tagesschau und Samenstau"
+      },
+      {
+        "category": "Trink",
+        "name": "Alle männlichen Dullies trinken",
+        "description": "Und diese, die sich als solche identifizieren"
+      },
+      {
+        "category": "Trink",
+        "name": "Alle weiblichen Geschöpfe trinken",
+        "description": "Und diese, die sich als solche identifizieren"
+      },
+      {
+        "category": "Trink",
+        "name": "Alle die sich als Apache Kampfhubschrauber oder \"son Scheiß\" identifizieren nehmen einen Sipp",
+        "description": "Mach den Hub Hub Hub mach den Schrauber Schrauber Schrauber"
+      },
+      {
+        "category": "Trink",
+        "name": "Die am wenigsten betrunkene Person trinkt",
+        "description": "UHHHHHHHHHHHHHHHHHHHHHHHH I'm blinded by the lights"
+      },
+      {
+        "category": "Trink",
+        "name": "Der Keko, welcher am höchsten gewachsen ist darf erstmal trinken",
+        "description": "Upsi Dupsi. Gibt das Leben dir 'ne Zitrone, dann mach Limousine"
+      },
+      {
+        "category": "Trink",
+        "name": "Alle Spieler*innen, die heute noch nicht geduscht haben, trinken! Aber sofort.",
+        "description": "Deutsch ist halt so eine Alman Sprache"
+      },
+      {
+        "category": "Trink",
+        "name": "Alle Brillenträger trinken",
+        "description": "Wie nennt man eine japanische Unterhosenfabrik? Sacki verpacki."
+      },
+      {
+        "category": "Trink",
+        "name": "Das kleinste Gebläse trinkt",
+        "description": "Ich spüle Teller, Schalen, Pfannen aber abwaschen bleibt gleich - Mozart"
+      },
+      {
+        "category": "Trink",
+        "name": "Der jünste trinkt",
+        "description": "Das passt ja vorn und hinten nicht. Lisa, 23 schickt ihre Eis.de Bestellung zurück."
+      },
+      {
+        "category": "Trink",
+        "name": "Der Lelek mit den kürzesten Haaren trinkt",
+        "description": "Da kannst du schütteln, da kannst du klopfen, in die Hose geht der letzte Tropfen."
+      }
+    ]
+  },
+  {
+    "name": "Regel",
+    "weight": 2,
+    "data": [
+      {
+        "category": "Regel (nicht Tage)",
+        "name": "Diese Regel gilt für die nächste Runde",
+        "description": [
+          "Der Dumbo, der diese Karte gezogen hat, darf sich eine Regel ausdenken, die für die nächste Runde gilt. (z.B. Nur noch mit der schwachen Hand trinken)"
         ]
-    }
+      },
+      {
+        "category": "Regel",
+        "name": "Diese Regel gilt für die nächsten zwei Runde",
+        "description": [
+          "Der Dullie, der diese Karte gezogen hat, darf sich eine Regel ausdenken, die für die nächsten zwei Runde gilt. (z.B. Man darf nur noch in der dritten Person reden)"
+        ]
+      },
+      {
+        "category": "Regel",
+        "name": "Diese Regel gilt für die nächsten drei Runde",
+        "description": [
+          "Der Dullie, der diese Karte gezogen hat, darf sich eine Regel ausdenken, die für die nächsten zwei Runde gilt. (z.B. Man darf nur noch in der dritten Person reden)"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Frage",
+    "weight": 1,
+    "data": [
+      {
+        "category": "Frage",
+        "name": "Sag doch mal...",
+        "description": "Die Bumbsbiene, die diese Karte gezogen hat darf einem Mitspieler*in seiner/ihrer Wahl eine Frage stellen. Du hast jetzt die Möglichkeit alles herauszufinden, was du schon immer wissen wolltest. Nutze diese Chance weise! Die Person, die die Frage beantworten muss, muss diese aber nicht beantworten. Alternativ kann sie sich für 5 Schlucks freikaufen."
+      }
+    ]
+  },
+  {
+    "name": "Aufgabe",
+    "weight": 1,
+    "data": [
+      {
+        "category": "Aufgabe",
+        "name": "Mache alles, was die Person Links von dir verlangt",
+        "description": "Wenn du nicht kannst oder willst, dann trinke."
+      },
+      {
+        "category": "Aufgabe",
+        "name": "Mach 10 Liegestütze",
+        "description": "Wenn du nicht kannst oder willst, dann trinke."
+      }
+    ]
+  }
 ]
