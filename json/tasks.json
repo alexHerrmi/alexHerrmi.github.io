@@ -92,14 +92,34 @@
             },
             {
                 "category": "Spiel",
+                "name": "Assoziation",
+                "description": "Bei dem Spiel Assoziation denkt sich der Keck, der die Karte gezogen ein Wort aus, welches sich aus zwei Wörtern zusammensetzt (z.B. Alkoholvergiftung). Der/Die Spieler*in rechts neben dem Keck, der die Karte gezogen hat nimmt nun das zweite Wort (Vergiftung) und fügt ein neues Wort hintendran (Vergiftungssymptome). Und so geht es im Kreis weiter, bis einer Person nichts mehr einfällt oder einer einen Fehler macht. Der Person muss dann trinken."
+            },
+            {
+                "category": "Spiel",
                 "name": "Ja, Nein, Vielleicht",
                 "description": "Jeder Spieler darf dem Lelek, der diese Karte gezogen hat eine Frage stellen. Der Lelek MUSS diese beantworten, darf aber nicht die Wörter \"Ja\", \"Nein\" und \"Vielleicht\" benutzen. Benutzt er eins dieser Wörter, muss er trinken."
             },
             {
                 "category": "Entweder/Oder",
                 "name": "Kaffee oder Schoko",
-                "description": "Jeder spielt mit, die kleiner Gruppe muss trinken."
-            }
+                "description": "Jeder spielt, der zur kleineren Gruppe gehört muss trinken."
+            },
+            {
+                "category": "Spiel",
+                "name": "Imitation",
+                "description": "Der Dödel, der die Karte gezogen hat, versucht nun für 1 Minute eine Person zu imitieren, die möglichst alle kennen. Hierbei ist darauf zu achten, dass diese Person auch sehr klischeehaft dargestellt wird. (z.B. \"Ähhhh aber geht dein Licht unter deinem Bett automatisch an wenn du nachts mal wieder einen Abseilen musst?! Hä ?!\") Alle die, die diese Person nicht erkannt haben trinken."
+            },
+            {
+                "category": "Spiel",
+                "name": "Kurz-Pantomime",
+                "description": "Der/Die Spieler*in, der/die diese Karte gezogen hat denkt sich einen Begriff aus, schreibt den Begriff auf und muss nur mit Gestik und Mimik (OHNE GERÄUSCHE IHR KEKS) zeigen, um was für einen Begriff es sich handelt. Der Spieler hat 1 Minute Zeit (variierbar). Alle die es nicht erkannt haben: trinkt. Wenn es z.B. 5 nicht erkannt haben, so muss der ziehende Spieler 5 Schlucks runterschlabbern."
+            },
+            {
+                "category": "Spiel",
+                "name": "Entweder, oder",
+                "description": "Der Frosch, der diese Karte gezogen hat stellt eine \"Entweder oder\" Frage (z.B Entweder 1 Jahr kein Sex oder 1 Jahr keine Party mehr). Nun gibt jeder eine Antwort ab, was man lieber nehmen würde. Die Minderheit trinkt. Bei Gleichstand entscheidet die Person, mit der größten Nase, wer trinken muss."
+           }
         ]
     },
     {
