@@ -28,7 +28,8 @@
           "... Nudes versenden",
           "... mit dem Vorgesetzten schlafen",
           "... einen Porno drehen"
-        ]
+        ],
+        "hint": "Such dir eine Person aus, die am ehesten die genannte Sache machen würde. Stoßt an und trinkt."
       },
       {
         "category": "Spiel",
@@ -51,7 +52,8 @@
           "Städte in Europa",
           "Scheidungsgründe",
           "Dinge die stinken"
-        ]
+        ],
+        "hint": "Der Spacko, der diese Karte gezogen hat nennt einen Begriff zum oben genannten Thema. Dann wird reihum ein weiterer Begriff gennant. Wem nichts mehr einfällt: Kopf in Nacken"
       },
       {
         "category": "Spiel",
@@ -76,14 +78,15 @@
           "... von zu viel Essen gekotzt",
           "... einen Autounfall gebaut",
           "Ich wurde noch nie von der Polizei angehalten",
-          "Ich wurde noch nie geblitzt",
+          "... einen Strafzettel fürs zu schnell fahren bekommen",
           "... einen Strafzettel bekommen"
-        ]
+        ],
+        "hint": "Diejenigen, die der oben genannten Aussgage so zustimmen können müssen nicht trinken. Alle anderen: Prost"
       },
       {
         "category": "Spiel",
         "name": "Warheit oder Pflicht",
-        "description": "Such dir eine Person aus, die entweder eine Wahrheit oder "
+        "description": "Such dir eine Person aus, die entweder eine Wahrheit erzählen oder eine Pflichtaufgabe erledigen muss. "
       },
       {
         "category": "Spiel",
@@ -113,12 +116,26 @@
           "Kino oder Netflix",
           "Blind oder Taub",
           "Beim Partner: Unterleib eines Fisches oder Kopf eines Fisches"
-        ]
+        ],
+        "hint": "Jeder Spieler hat kurz Zeit um zu überlegen, wofür sich der Kartenzieher entscheiden würde. Wer falsch liegt darf das Volumen seines Getränks verringern."
       },
       {
         "category": "Spiel",
         "name": "Imitation",
-        "description": "Der Dödel, der die Karte gezogen hat, versucht nun für 1 Minute eine Person zu imitieren, die möglichst alle kennen. Hierbei ist darauf zu achten, dass diese Person auch sehr klischeehaft dargestellt wird. (z.B. \"Ähhhh aber geht dein Licht unter deinem Bett automatisch an wenn du nachts mal wieder einen Abseilen musst?! Hä ?!\") Alle die, die diese Person nicht erkannt haben trinken."
+        "description": [
+          "Christian W.",
+          "Lars M.",
+          "Alex H.",
+          "Jonas D.",
+          "Pia D.",
+          "Beliebige Person",
+          "Sascha Huber",
+          "Mickie Krause",
+          "Eni F.",
+          "Jeder x belibiege Rentner"
+
+        ],
+        "hint": "Der Dödel, der die Karte gezogen hat, versucht nun für 1 Minute die genannte Person zu imitieren. Falls diese unbekannt ist, kann gerne jede anderen Person imitiert werden. Hierbei ist darauf zu achten, dass diese Person auch sehr klischeehaft dargestellt wird. (z.B. \"Ähhhh aber geht dein Licht unter deinem Bett automatisch an wenn du nachts mal wieder einen Abseilen musst?! Hä ?!\") Alle die, die diese Person nicht erkannt haben trinken."
       },
       {
         "category": "Spiel",
