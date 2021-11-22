@@ -213,8 +213,7 @@
           "Spongebob",
           "Mr. Krabs",
           "Die Möwen aus \"Findet Nemo\"",
-          "Attila Hildmann",
-          
+          "Attila Hildmann"
         ],
         "hint": "Der Dödel, der die Karte gezogen hat, versucht nun für 1 Minute die genannte Person zu imitieren. Falls diese unbekannt ist, kann gerne jede anderen Person imitiert werden. Hierbei ist darauf zu achten, dass diese Person auch sehr klischeehaft dargestellt wird. (z.B. \"Ähhhh aber geht dein Licht unter deinem Bett automatisch an wenn du nachts mal wieder einen Abseilen musst?! Hä ?!\") Alle die, die diese Person nicht erkannt haben trinken."
       },
@@ -228,7 +227,8 @@
           "Du musst mal aufs Klo",
           "Hubschrauber",
           "Lars auf einer Party",
-          "Deine Mische ist leer"
+          "Deine Mische ist leer",
+          "Das Kondom ist geplatzt"
         ],
         "hint": "Beschreibe das obere Wort / die Phrase ausschließlich mit Gestik und Mimik (OHNE GERÄUSCHE IHR KEKS). Nach 1 Minute (kann variieren) sagt dan jeden Spieler reihum, was er denkt, was hier beschrieben wurde. Wenn einer den Begriff nicht richtig erkannt hat, so trinkst du."
       }
@@ -372,7 +372,7 @@
         "name": "Mach 10 Liegestütze",
         "description": "Wenn du nicht kannst oder willst, dann trinke."
       },
-            {
+      {
         "category": "Aufgabe",
         "name": "Twerke für 10 sekunden",
         "description": "Wenn du nicht kannst oder willst, dann trinke."
