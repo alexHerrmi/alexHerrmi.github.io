@@ -37,17 +37,17 @@
                 "description": "Diejenigen, die der oben genannten Aussgage so zustimmen können müssen nicht trinken. Alle anderen: Prost"
             },
             {
-                "category": "Spiel",
+                "category": "Spiel 1",
                 "name": "Warheit oder Pflicht",
                 "description": "Such dir eine Person aus, die entweder eine Wahrheit erzählen oder eine Pflichtaufgabe erledigen muss. "
             },
             {
-                "category": "Spiel",
+                "category": "Spiel 2",
                 "name": "Ich gehe in eine Bar und trinke einen...",
                 "description": "Das Spiel ist gleich wie \"Ich packe meinen Koffer und nehme mit\", nur packen wir keinen Koffer, sondern gehen in eine Bar und trinken. Der Verlierer muss saufen (Kein Wasser! (Außer er ist Fahrer!!))"
             },
             {
-                "category": "Spiel",
+                "category": "Spiel 3",
                 "name": "Assoziation",
                 "description": "Bei dem Spiel Assoziation denkt sich der Keck, der die Karte gezogen ein Wort aus, welches sich aus zwei Wörtern zusammensetzt (z.B. Alkoholvergiftung). Der/Die Spieler*in rechts neben dem Keck, der die Karte gezogen hat nimmt nun das zweite Wort (Vergiftung) und fügt ein neues Wort hintendran (Vergiftungssymptome). Und so geht es im Kreis weiter, bis einer Person nichts mehr einfällt oder einer einen Fehler macht. Der Person muss dann trinken."
             },
