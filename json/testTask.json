@@ -108,7 +108,7 @@
                 "category": "Trink",
                 "name": "Der Klappstuhl, mit der größten Nase trinkt.",
                 "description": "Sollte selbstverständlich sein."
-            },
+            }
         ]
     },
     {
@@ -133,6 +133,5 @@
                 "description": "Der Dullie, der diese Karte gezogen hat, darf sich eine Regel ausdenken, die für die nächsten drei Runde gilt. (z.B. Man darf nur noch in der dritten Person reden)"
             }
         ]
-    },
-
+    }
 ]
