@@ -8,39 +8,19 @@
                 "name": [
                     "... von Robby Bubble kotzen?",
                     "... auf einem Festival blank ziehen?",
-                    "... in der Wildnis überleben?",
-                    "... nackt durch die Innenstadt laufen?",
-                    "... in den Knast kommen?"
+                    "... in der Wildnis überleben?"
                 ],
                 "description": "Such dir eine Person aus, die am ehesten die genannte Sache machen würde. Stoßt an und trinkt."
-            },
-            {
-                "category": "Themenrunde",
-                "name": [
-                    "Biermarken",
-                    "Automarken",
-                    "Tiere",
-                    "Sexspielzeuge",
-                    "Städte mit A",
-                    "Dinge, die man beim Fußball und beim Sex sagen kann"
-                ],
-                "description": "Der Spacko, der diese Karte gezogen hat nennt einen Begriff zum oben genannten Thema. Dann wird reihum ein weiterer Begriff gennant. Wem nichts mehr einfällt: Kopf in Nacken"
             },
             {
                 "category": "Ich hab noch nie",
                 "name": [
                     "... Analsex gehabt",
                     "... mehr als 2x am Tag masturbiert",
-                    "... Fahrerflucht begangen",
-                    "... auf der Toilette telefoniert"
+                    "... Fahrerflucht begangen"
                 ],
                 "description": "Diejenigen, die der oben genannten Aussgage so zustimmen können müssen nicht trinken. Alle anderen: Prost"
-            },
-            {
-                "category": "Spiel 1",
-                "name": "Warheit oder Pflicht",
-                "description": "Such dir eine Person aus, die entweder eine Wahrheit erzählen oder eine Pflichtaufgabe erledigen muss. "
-            },
+            }
             {
                 "category": "Spiel 2",
                 "name": "Ich gehe in eine Bar und trinke einen...",
@@ -50,38 +30,6 @@
                 "category": "Spiel 3",
                 "name": "Assoziation",
                 "description": "Bei dem Spiel Assoziation denkt sich der Keck, der die Karte gezogen ein Wort aus, welches sich aus zwei Wörtern zusammensetzt (z.B. Alkoholvergiftung). Der/Die Spieler*in rechts neben dem Keck, der die Karte gezogen hat nimmt nun das zweite Wort (Vergiftung) und fügt ein neues Wort hintendran (Vergiftungssymptome). Und so geht es im Kreis weiter, bis einer Person nichts mehr einfällt oder einer einen Fehler macht. Der Person muss dann trinken."
-            },
-            {
-                "category": "Entweder/Oder",
-                "name": [
-                    "Kaffe oder Schoki",
-                    "Raclette oder Fondue",
-                    "Ein Jahr obdachlos oder ein Jahr kein Sex",
-                    "Bier oder Wein",
-                    "Riesige Hände oder riesige Füße",
-                    "Teleportation oder Gedanken lesen",
-                    "Kino oder Netflix",
-                    "Blind oder Taub"
-                ],
-                "description": "Jeder Spieler hat kurz Zeit um zu überlegen. Anschließend wird gezeigt für was sich jeder Spieler entscheidet. Die Minderheit darf den Inhalt seines Getränks verringern."
-            },
-            {
-                "category": "Imitation",
-                "name": [
-                    "Dieter Bohlen",
-                    "Angela Merkel",
-                    "Markus Söder"
-                ],
-                "description": "Der Dödel, der die Karte gezogen hat, versucht nun für 1 Minute die genannte Person zu imitieren. Falls diese unbekannt ist, kann gerne jede anderen Person imitiert werden. Hierbei ist darauf zu achten, dass diese Person auch sehr klischeehaft dargestellt wird. (z.B. \"Ähhhh aber geht dein Licht unter deinem Bett automatisch an wenn du nachts mal wieder einen Abseilen musst?! Hä ?!\") Alle die, die diese Person nicht erkannt haben trinken."
-            },
-            {
-                "category": "Pantomime",
-                "name": [
-                    "Motorsäge",
-                    "Gitarrist",
-                    "Bierbauch"
-                ],
-                "description": "Beschreibe das obere Wort / die Phrase ausschließlich mit Gestik und Mimik (OHNE GERÄUSCHE IHR KEKS). Nach 1 Minute (kann variieren) sagt dan jeden Spieler reihum, was er denkt, was hier beschrieben wurde. Wenn einer den Begriff nicht richtig erkannt hat, so trinkst du."
             }
         ]
     },
@@ -98,16 +46,6 @@
                 "category": "Trink",
                 "name": "Der/Die klügste Spieler*in trinkt",
                 "description": "Kommt eine schwangere Frau zum Bäcker. Sagt sie zum Bäcker: \"Ich bekomme 3 Brezeln\". Sagt der Bäcker: \"Sachen gibts..\""
-            },
-            {
-                "category": "Trink",
-                "name": "Die dümmste Flasche trinkt",
-                "description": "Im Zweifel auch der, mit den dümmsten Aussagen (oder der Lars in der Gruppe :*)"
-            },
-            {
-                "category": "Trink",
-                "name": "Der Klappstuhl, mit der größten Nase trinkt.",
-                "description": "Sollte selbstverständlich sein."
             }
         ]
     },
@@ -120,7 +58,6 @@
                 "name": [
                     "Joker - Du darfst dir eine eigene Regel ausdenken.",
                     "Joker - Du darfst dir eine eigene Regel ausdenken.",
-                    "Diese Runde ist Ruhe. Ihr dürft nurnoch flüstern!"
                 ],
                 "description": "Der Dumbo, der diese Karte gezogen hat, darf sich eine Regel ausdenken, die für die nächste Runde gilt. (z.B. Nur noch mit der schwachen Hand trinken)"
             },
