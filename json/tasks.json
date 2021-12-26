@@ -89,7 +89,9 @@
                     "Lustige Namen für eure Bar",
                     "Dinge die man sich am besten nicht in Körperöffnungen steckt",
                     "Dinge in die man am besten keine Gliedmaßen reinsteckt",
-                    "Sachen die Weiß sind"
+                    "Sachen die Weiß sind",
+                    "Dinge, die du beim Arzt nicht hören willst, wenn du Nackt bist.",
+                    "Schlechte Momente um Nackt zu sein."
                 ],
                 "hint": "Der Spacko, der diese Karte gezogen hat nennt einen Begriff zum oben genannten Thema. Dann wird reihum ein weiterer Begriff gennant. Wem nichts mehr einfällt: Kopf in Nacken"
             },
@@ -120,7 +122,7 @@
                     "... einen Strafzettel bekommen",
                     "... einen Blowjob gegeben",
                     "... einen Blowjob bekommen",
-                    "... einen Dreier gehbat",
+                    "... einen Dreier gehabt",
                     "... zu einen unpassenden Zeitpunkt einne Lachanfall bekommen",
                     "... Süßigkeiten in die Nase gesteckt",
                     "... einen TZK heimlich gemacht",
@@ -231,7 +233,7 @@
                     "Sanft oder leidenschaftlich",
                     "Fesseln oder Augenbinde"
                 ],
-                "hint": "Jeder Spieler hat kurz Zeit um zu überlegen, wofür sich der Kartenzieher entscheiden würde. Wer falsch liegt darf das Volumen seines Getränks verringern."
+                "hint": "Jeder Spieler hat kurz Zeit um zu überlegen. Anschließend wird gezeigt für was sich jeder Spieler entscheidet. Die Minderheit darf den Inhalt seines Getränks verringern."
             },
             {
                 "category": "Spiel",
@@ -539,7 +541,7 @@
             },
             {
                 "category": "Aufgabe",
-                "name": "Erratet welches Lied als nächste kommt.",
+                "name": "Erratet welches Lied als nächstes kommt.",
                 "description": "Wer falsch liet muss trinken"
             },
             {
