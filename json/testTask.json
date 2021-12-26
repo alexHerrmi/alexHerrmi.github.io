@@ -4,9 +4,8 @@
         "weight": 5,
         "data": [
             {
-                "category": "Spiel",
-                "name": "Wer würde am ehesten",
-                "description": [
+                "category": "Wer würde am ehesten",
+                "name": [
                     "... von Robby Bubble kotzen?",
                     "... auf einem Festival blank ziehen?",
                     "... in der Wildnis überleben?",
@@ -47,12 +46,11 @@
                     "... im Winter Sandalen anziehen?",
                     "... ein Nutellabrot mit Käse überbacken?"
                 ],
-                "hint": "Such dir eine Person aus, die am ehesten die genannte Sache machen würde. Stoßt an und trinkt."
+                "description": "Such dir eine Person aus, die am ehesten die genannte Sache machen würde. Stoßt an und trinkt."
             },
             {
-                "category": "Spiel",
-                "name": "Themenrunde",
-                "description": [
+                "category": "Themenrunde",
+                "name": [
                     "Biermarken",
                     "Automarken",
                     "Tiere",
@@ -93,12 +91,11 @@
                     "Dinge, die du beim Arzt nicht hören willst, wenn du Nackt bist.",
                     "Schlechte Momente um Nackt zu sein."
                 ],
-                "hint": "Der Spacko, der diese Karte gezogen hat nennt einen Begriff zum oben genannten Thema. Dann wird reihum ein weiterer Begriff gennant. Wem nichts mehr einfällt: Kopf in Nacken"
+                "description": "Der Spacko, der diese Karte gezogen hat nennt einen Begriff zum oben genannten Thema. Dann wird reihum ein weiterer Begriff gennant. Wem nichts mehr einfällt: Kopf in Nacken"
             },
             {
-                "category": "Spiel",
-                "name": "Ich hab noch nie",
-                "description": [
+                "category": "Ich hab noch nie",
+                "name": [
                     "... Analsex gehabt",
                     "... mehr als 2x am Tag masturbiert",
                     "... Fahrerflucht begangen",
@@ -147,7 +144,7 @@
                     "... mich vor einer Party vorsichtshalber rasiert",
                     "... einen Anruf meiner Eltern weggedrückt"
                 ],
-                "hint": "Diejenigen, die der oben genannten Aussgage so zustimmen können müssen nicht trinken. Alle anderen: Prost"
+                "description": "Diejenigen, die der oben genannten Aussgage so zustimmen können müssen nicht trinken. Alle anderen: Prost"
             },
             {
                 "category": "Spiel",
@@ -170,9 +167,8 @@
                 "description": "Jeder Spieler darf dem Lelek, der diese Karte gezogen hat eine Frage stellen. Der Lelek MUSS diese beantworten, darf aber nicht die Wörter \"Ja\", \"Nein\" und \"Vielleicht\" benutzen. Benutzt er eins dieser Wörter, muss er trinken."
             },
             {
-                "category": "Spiel",
-                "name": "Entweder/Oder",
-                "description": [
+                "category": "Entweder/Oder",
+                "name": [
                     "Kaffe oder Schoki",
                     "Raclette oder Fondue",
                     "Ein Jahr obdachlos oder ein Jahr kein Sex",
@@ -233,12 +229,11 @@
                     "Sanft oder leidenschaftlich",
                     "Fesseln oder Augenbinde"
                 ],
-                "hint": "Jeder Spieler hat kurz Zeit um zu überlegen. Anschließend wird gezeigt für was sich jeder Spieler entscheidet. Die Minderheit darf den Inhalt seines Getränks verringern."
+                "description": "Jeder Spieler hat kurz Zeit um zu überlegen. Anschließend wird gezeigt für was sich jeder Spieler entscheidet. Die Minderheit darf den Inhalt seines Getränks verringern."
             },
             {
-                "category": "Spiel",
-                "name": "Imitation",
-                "description": [
+                "category": "Imitation",
+                "name": [
                     "Dieter Bohlen",
                     "Angela Merkel",
                     "Markus Söder",
@@ -264,12 +259,11 @@
                     "Attila Hildmann",
                     "Lisa aus Australien"
                 ],
-                "hint": "Der Dödel, der die Karte gezogen hat, versucht nun für 1 Minute die genannte Person zu imitieren. Falls diese unbekannt ist, kann gerne jede anderen Person imitiert werden. Hierbei ist darauf zu achten, dass diese Person auch sehr klischeehaft dargestellt wird. (z.B. \"Ähhhh aber geht dein Licht unter deinem Bett automatisch an wenn du nachts mal wieder einen Abseilen musst?! Hä ?!\") Alle die, die diese Person nicht erkannt haben trinken."
+                "description": "Der Dödel, der die Karte gezogen hat, versucht nun für 1 Minute die genannte Person zu imitieren. Falls diese unbekannt ist, kann gerne jede anderen Person imitiert werden. Hierbei ist darauf zu achten, dass diese Person auch sehr klischeehaft dargestellt wird. (z.B. \"Ähhhh aber geht dein Licht unter deinem Bett automatisch an wenn du nachts mal wieder einen Abseilen musst?! Hä ?!\") Alle die, die diese Person nicht erkannt haben trinken."
             },
             {
-                "category": "Spiel",
-                "name": "Pantomime",
-                "description": [
+                "category": "Pantomime",
+                "name": [
                     "Motorsäge",
                     "Gitarrist",
                     "Bierbauch",
@@ -286,7 +280,7 @@
                     "Blowjopb",
                     "Intimpiercing"
                 ],
-                "hint": "Beschreibe das obere Wort / die Phrase ausschließlich mit Gestik und Mimik (OHNE GERÄUSCHE IHR KEKS). Nach 1 Minute (kann variieren) sagt dan jeden Spieler reihum, was er denkt, was hier beschrieben wurde. Wenn einer den Begriff nicht richtig erkannt hat, so trinkst du."
+                "description": "Beschreibe das obere Wort / die Phrase ausschließlich mit Gestik und Mimik (OHNE GERÄUSCHE IHR KEKS). Nach 1 Minute (kann variieren) sagt dan jeden Spieler reihum, was er denkt, was hier beschrieben wurde. Wenn einer den Begriff nicht richtig erkannt hat, so trinkst du."
             }
         ]
     },
@@ -442,40 +436,46 @@
         "data": [
             {
                 "category": "Regel (nicht Tage)",
-                "name": "Diese Regel gilt für die nächste Runde",
-                "description": [
-                    "Der Dumbo, der diese Karte gezogen hat, darf sich eine Regel ausdenken, die für die nächste Runde gilt. (z.B. Nur noch mit der schwachen Hand trinken)",
+                "name": [
+                    "Joker - Du darfst dir eine eigene Regel ausdenken.",
+                    "Joker - Du darfst dir eine eigene Regel ausdenken.",
                     "Diese Runde ist Ruhe. Ihr dürft nurnoch flüstern!"
-                ]
+                ],
+                "description": "Der Dumbo, der diese Karte gezogen hat, darf sich eine Regel ausdenken, die für die nächste Runde gilt. (z.B. Nur noch mit der schwachen Hand trinken)"
             },
             {
                 "category": "Regel",
-                "name": "Diese Regel gilt für die nächsten drei Runde",
-                "description": [
-                    "Der Dullie, der diese Karte gezogen hat, darf sich eine Regel ausdenken, die für die nächsten zwei Runde gilt. (z.B. Man darf nur noch in der dritten Person reden)",
+                "name": [
+                    "Joker - Du darfst dir eine eigene Regel ausdenken.",
+                    "Joker - Du darfst dir eine eigene Regel ausdenken.",
+                    "Joker - Du darfst dir eine eigene Regel ausdenken.",
                     "Redet euch nurnoch mit \"Sie\" an",
                     "Wie Yoda Ihr reden müsst"
-                ]
+                ],
+                "description": "Der Dullie, der diese Karte gezogen hat, darf sich eine Regel ausdenken, die für die nächsten drei Runde gilt. (z.B. Man darf nur noch in der dritten Person reden)"
             },
             {
                 "category": "Regel",
-                "name": "Diese Regel gilt für die nächsten fünf Runde",
-                "description": [
-                    "Der Dullie, der diese Karte gezogen hat, darf sich eine Regel ausdenken, die für die nächsten zwei Runde gilt. (z.B. Man darf nur noch in der dritten Person reden)",
+                "name": [
+                    "Joker - Du darfst dir eine eigene Regel ausdenken.",
+                    "Joker - Du darfst dir eine eigene Regel ausdenken.",
                     "Es dürfen keine Fragen gestellt werden. Wer eine Frage stellt muss trinken.",
                     "Um euer Gehirn zu trainieren trinkt Ihr mit der schwachen Hand.",
                     "Die Person rechts von dir darf ab jetzt mit dir mittrinken und anders herum"
-                ]
+                ],
+                "description": "Der Dullie, der diese Karte gezogen hat, darf sich eine Regel ausdenken, die für die nächsten zwei Runde gilt. (z.B. Man darf nur noch in der dritten Person reden)"
             },
             {
-                "category": "Regel",
-                "name": "Diese Regel gilt für den Rest des Abends",
-                "description": [
+                "category": "Regel für den Rest des Abends",
+                "name": [
                     "Wer aufs Klo gehen will muss davor einen Shot trinken",
                     "Die Person links von dir trinkt ab jetzt immer mit dir mit und anders herum",
                     "Dein neuer Name ist ab jetzt Horst, wer dich nicht mit Horst anspricht, muss trinken",
-                    "Bis zum Ende des Spiels sind die Wörter „Fuck“ und „Scheiße“ verboten."
-                ]
+                    "Bis zum Ende des Spiels sind die Wörter „Fuck“ und „Scheiße“ verboten.",
+                    "Joker - Du darfst dir eine eigene Regel ausdenken.",
+                    "Joker - Du darfst dir eine eigene Regel ausdenken."
+                ],
+                "description": "Diese Regeln gelten den Rest des Abends. Ja, auch wenn das Spiel schon lange vorbei ist."
             }
         ]
     },
