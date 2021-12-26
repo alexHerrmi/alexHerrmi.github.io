@@ -20,7 +20,7 @@
                     "... Fahrerflucht begangen"
                 ],
                 "description": "Diejenigen, die der oben genannten Aussgage so zustimmen können müssen nicht trinken. Alle anderen: Prost"
-            }
+            },
             {
                 "category": "Spiel 2",
                 "name": "Ich gehe in eine Bar und trinke einen...",
@@ -57,7 +57,7 @@
                 "category": "Regel (nicht Tage)",
                 "name": [
                     "Joker - Du darfst dir eine eigene Regel ausdenken.",
-                    "Joker - Du darfst dir eine eigene Regel ausdenken.",
+                    "Joker - Du darfst dir eine eigene Regel ausdenken."
                 ],
                 "description": "Der Dumbo, der diese Karte gezogen hat, darf sich eine Regel ausdenken, die für die nächste Runde gilt. (z.B. Nur noch mit der schwachen Hand trinken)"
             },
